@@ -8,8 +8,3 @@
 	url = https://github.com/hhoeflin/configparser
 	shallow = true
 	registered = true
-[submodule "hdf5r"]
-	path = hdf5r
-	url = https://github.com/hhoeflin/hdf5r
-	shallow = true
-	registered = true
