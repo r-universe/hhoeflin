@@ -2,5 +2,9 @@
   {
     "package": "ConfigParser",
     "oncran": true
+  },
+  {
+    "package": "hdf5r",
+    "oncran": true
   }
 ]
