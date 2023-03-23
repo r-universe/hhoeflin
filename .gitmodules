@@ -8,8 +8,18 @@
 	url = https://github.com/hhoeflin/configparser
 	shallow = true
 	registered = true
+[submodule "flsa"]
+	path = flsa
+	url = https://github.com/cran/flsa
+	shallow = true
+	registered = true
 [submodule "hdf5r"]
 	path = hdf5r
 	url = https://github.com/hhoeflin/hdf5r
+	shallow = true
+	registered = true
+[submodule "neariso"]
+	path = neariso
+	url = https://github.com/cran/neariso
 	shallow = true
 	registered = true
