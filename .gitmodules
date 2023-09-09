@@ -11,6 +11,3 @@
 [submodule "hdf5r"]
 	path = hdf5r
 	url = https://github.com/hhoeflin/hdf5r
-[submodule "neariso"]
-	path = neariso
-	url = https://github.com/cran/neariso
